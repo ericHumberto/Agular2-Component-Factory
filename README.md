@@ -1,3 +1,7 @@
+# Introdution
+
+This project was generated to prove the concept of Camponent Factory using Angular2
+
 # AngularComponentFactory
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.

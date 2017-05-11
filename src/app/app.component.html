@@ -1,3 +1,5 @@
 <h1>
-  {{title}}
+  <button (click)="createComponent(1)">Create Hello World</button>
+  <button (click)="createComponent(2)">Create World Hello</button>
+  <dynamic-component [componentId]="componentId"></dynamic-component>
 </h1>
